@@ -16,7 +16,10 @@
     }
   ],
   "dependencies": [
-
+    {
+      "name": "shadowrun5e",
+      "type": "system"
+    },
   ],
   "conflicts": [
     

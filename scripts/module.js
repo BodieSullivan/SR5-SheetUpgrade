@@ -1,6 +1,6 @@
 
 
-export class SR5EnhancedActorSheet extends SR5ACtorSheet {
+export class SR5EnhancedActorSheet extends SR5ActorSheet {
 
     constructor(...args) {
         super(...args);
@@ -20,7 +20,7 @@ export class SR5EnhancedActorSheet extends SR5ACtorSheet {
 
 
 // Register Tidy5e Sheet and make default character sheet
-Actors.registerSheet("SR5EnhancedActorSheet", SR5EnhancedActorSheet, {
+Actors.registerSheet("shadowrun5e", SR5EnhancedActorSheet, {
 	types: ["character"],
 	makeDefault: true
 });
