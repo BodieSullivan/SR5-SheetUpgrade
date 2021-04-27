@@ -1,15 +1,16 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
-  "version": "This is auto replaced",
+  "name": "SR5-EnhancedSheets",
+  "title": "SR5-EnhancedSheets",
+  "description": "SR5-EnhancedSheets",
+  "version": "0.0.1",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
+  "system": "shadowrun5e",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
+      "name": "Bodie Sullivan",
       "url": "https://github.com/League-of-Foundry-Developers",
       "discord": "discordID#0001"
     }
